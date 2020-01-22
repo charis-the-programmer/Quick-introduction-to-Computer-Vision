@@ -1,1 +1,1 @@
-# Quick-introduction-to-Computer-Vision
+# Quick introduction to Computer Vision
