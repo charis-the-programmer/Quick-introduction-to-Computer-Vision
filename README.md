@@ -12,3 +12,4 @@ In the decade that followed researchers of Computer Vision stated tapping into f
 Currently the continuous improvements in deep learning techniques are facilitating the progress of Computer Vision and the accuracy of the algorithms that are now being used on Computer Vision datasets has proved to be much better.  
 ### Fields of Computer Vision
 #### Object Detection
+In this field the machines are supposed to  detect objects using the pattern of geometry for example detecting faces, detecting bodies or animals. There are many algorithms that are used to detect objects by computers for example the binary matrix is used to see where an object starts and where it ends on the binary image.
