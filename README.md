@@ -10,4 +10,5 @@ In the 1990s the researchers of Computer Vision focused mainly on mathematical a
 In the decade that followed researchers of Computer Vision stated tapping into feature based techniques which are being used in conjunction with machine learning techniques and optimization techniques which are more complex. 
 
 Currently the continuous improvements in deep learning techniques are facilitating the progress of Computer Vision and the accuracy of the algorithms that are now being used on Computer Vision datasets has proved to be much better.  
- 
+### Fields of Computer Vision
+#### Object Detection
