@@ -33,6 +33,7 @@ In this field the computer will put objects found on an image into a broad categ
 
 #### Object Segmentation
 In this field the computer divides an image into a number of regions using the characteristics of  pixels to identify object boundaries in order to analyze it more efficiently. An example of object segmentation is seen on green screens where the foreground (object) is placed on another background. Below is an image which shows a tiger that has been placed on another background.
-![image](sec.jpg)
+
+![Image](seg.jpg)
 
 
