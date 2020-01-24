@@ -13,4 +13,5 @@ Currently the continuous improvements in deep learning techniques are facilitati
 ### Fields of Computer Vision
 #### Object Detection
 In this field the machines are supposed to  detect objects using the pattern of geometry for example detecting faces, detecting bodies or animals. There are many algorithms that are used to detect objects by computers for example the binary matrix is used to see where an object starts and where it ends on the binary image. This is achieved by finding connected components which are then used to determine the boundaries of the object. The computers will then generate a pixelated boundary of any color to show the location of that object. Below is an image showing a cheetahs that has been identified and a red boundary has been drawn around it.
-![image](cheetahs.jpg)
+
+![_figure 1_ Cheetah detected and boundaries in a red boundary](cheetah.jpg)
