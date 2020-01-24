@@ -16,5 +16,5 @@ In this field the machines are supposed to  detect objects using the pattern of 
 
 ![_figure 1_ Cheetah detected and boundaries in a red boundary](cheetah.jpg)
 
-#### Object Recognitionthe results with what is already stored in the database.
-This field follows the same steps taken in object detection but the only difference is that the object will be detected already and now the computer has got to compare 
+#### Object Recognition
+This field follows the same steps taken in object detection but the only difference is that the object will be detected already and now the computer has got to compare the results with what is already stored in the database.
