@@ -17,4 +17,5 @@ In this field the machines are supposed to  detect objects using the pattern of 
 ![_figure 1_ Cheetah detected and boundaries in a red boundary](cheetah.jpg)
 
 #### Object Recognition
-This field follows the same steps taken in object detection but the only difference is that the object will be detected already and now the computer has got to compare the results with what is already stored in the database. For example when a semi autonomous vehicle is trained to detect a road sign that signals road users, the next time is detects a road sign it will then check if the sign matches the stop sign already stored in its database. If the sign matches with stop sign stored in the database then it will regcognize it.
+This field follows the same steps taken in object detection but the only difference is that the object will be detected already and now the computer has got to compare the results with what is already stored in the database. For example when a semi-autonomous vehicle is trained to detect a road sign that signals road users to stop, the next time is detects a road sign it will then check if the sign matches the stop sign already stored in its database. If the sign matches with stop sign stored in the database then it will regcognize it. The image below shows objects that are detected and recognized by the computer:
+
