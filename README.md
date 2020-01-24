@@ -36,4 +36,8 @@ In this field the computer divides an image into a number of regions using the c
 
 ![Image](seg.jpg)
 
+### Applications of Computer Vision
+### Automotive
+
+
 
