@@ -27,3 +27,4 @@ This field is based on video analysis which could be looking for frames on a web
 ![Image](t.png)
 
 #### Object Classification
+In this field the computer will put objects found on an image into a broad category based on its characteristics or visual content. For instance when using an object classification algorithm a computer may be able to tell if an image contains a human figure or not. This field differs from object detection in the sense that in object detection the computer doesn't specifically look for a human figure
