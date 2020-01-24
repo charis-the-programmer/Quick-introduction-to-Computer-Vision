@@ -22,4 +22,5 @@ This field follows the same steps taken in object detection but the only differe
 ![images](dnr.jpg)
 
 #### Object Tracking
-This field is based on video analysis which could be looking for frames on a webcam and then use image processing algorithms that will extract information of the image and the objects on it. In this field the state of the objects will be stored such as their location on the frames. The computer will then track the objects on the frames as they move around in the frames of the video that is coming from the webcam. This field is only possible in  video processing, in image processing this is not possible because the objects will be stationery.
+This field is based on video analysis which could be looking for frames on a webcam and then use image processing algorithms that will extract information of the image and the objects on it. In this field the state of the objects will be stored such as their location on the frames. The computer will then track the objects on the frames as they move around in the frames of the video that is coming from the webcam. This field is only possible in  video processing, in image processing this is not possible because the objects will be stationery. Below is an image that shows a computer tracking people as they move on the video.
+
