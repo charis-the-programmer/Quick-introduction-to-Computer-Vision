@@ -38,6 +38,7 @@ In this field the computer divides an image into a number of regions using the c
 
 ### Applications of Computer Vision
 #### Automotive
+Computer Vision can be used on any vehicle could be land based, air based or water based to help navigate paths that are safe to move in. This can be achieved with a group of cameras that are mounted on the vehicles  and these act as eyes for the vehicles. For instance when using the cameras and collision detection algorithms the vehicles will be able to determine the distance, motion and direction of every object in their surroundings which will ultimately help them decide the right speed and course of action required to avoid a collision. A good example of a vehicle model that is currently using these techniques is the [Tesla Model Y](https://www.tesla.com/modely) which is fully autonomous (it can drive itself without human supervision). It can do lane changing, self parking, roads signs and marking detection,auto pilot and more using computer vision. 
 
 
 
