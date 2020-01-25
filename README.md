@@ -49,4 +49,9 @@ Computer Vision can be used to inspect parts that are used in production to avoi
 Computer Vision can speed up retail operations for instance shelf management (barcode scanners),payments and Data collection. Security can also be enhanced through the use of connected cameras that monitoring retail stores so as to detect suspicious behavior and deter theft. Computer Vision based mobile applications can be used to give the customers more information about a particular product, all the customer has to do show the product to the phone camera and the application will give all information relevant to that product. In clothing retail mobile applications can also be used to take body measurements of the customers so that the customers doesn't have to go to the retail stores to try out the clothes but just receive them at their convenient places.
 #### Finance
   - Banking - When making payments Computer Vision can be used to identify customers using their iris for identification instead of credit cards or signatures which can be easily forged. All the customer has to do is to put their mobile phones' camera on the eye and the software will verify their identity then the payment is approved.
-  - Insurance - When a risk has occurred the evaluation of the damaged property can be evaluated by a computer instead of sending an inspector which is time consuming. All the client has to do is
+  - Insurance - When a risk has occurred the evaluation of the damaged property can be evaluated by a computer instead of sending an inspector which is time consuming. All the client has to do is take a picture of the damaged image then the system calcutes the amount of damage and compensation required.
+  - Commerce - satellites can be used to track the traffic of containers as they are transported to thier destinations so as determine the amount of imports and exports and use that for planning and decision making.
+#### Social Media 
+When applying filters on social media the computer recognizes parts of the face like eyes, nose, lips and jawline which are then used to modify face features in real time for instance snapchat add puppy ears to a human face.
+
+
