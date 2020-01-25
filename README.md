@@ -39,6 +39,7 @@ In this field the computer divides an image into a number of regions using the c
 ### Applications of Computer Vision
 #### Automotive
 Computer Vision can be used on any vehicle could be land based, air based or water based to help navigate paths that are safe to move in. This can be achieved with a group of cameras that are mounted on the vehicles  and these act as eyes for the vehicles. For instance when using the cameras and collision detection algorithms the vehicles will be able to determine the distance, motion and direction of every object in their surroundings which will ultimately help them decide the right speed and course of action required to avoid a collision. A good example of a vehicle model that is currently using these techniques is the [Tesla Model Y](https://www.tesla.com/modely) which is fully autonomous (it can drive itself without human supervision). It can do lane changing, self parking, roads signs and marking detection,auto pilot and more using computer vision. 
-
+#### Health Care
+Computer Vision can be used by medical professionals to better diagnose patients using medical imaging analysis, predictive analysis and health monitoring. Computer Vision algorithms can detect the slightest condition that could be otherwise not detected by human doctors who have sensory limitations. Medical imaging can create and analyse images or even assist doctors in interpreting them. It can also covert 2D image scans to 3D which gives the doctors a more detailed understanding of the patient's health. A good example is the software developed by Microsoft called th [InnerEye](https://www.microsoft.com/en-us/research/project/medical-image-analysis/) which is able to identify tumors and other anomalies in X-Ray images.
 
 
