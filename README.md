@@ -53,5 +53,6 @@ Computer Vision can speed up retail operations for instance shelf management (ba
   - Commerce - satellites can be used to track the traffic of containers as they are transported to thier destinations so as determine the amount of imports and exports and use that for planning and decision making.
 #### Social Media 
 When applying filters on social media the computer recognizes parts of the face like eyes, nose, lips and jawline which are then used to modify face features in real time for instance snapchat add puppy ears to a human face.
-
+### The differences between Computer Vision and Image Processin
+In Image processing an image is provided as input that is processed and give out an out in for of an image. The processing could be in form of smoothing, sharpening, stretching and contrasting. The processing depends on what needs to be achieved. On the other hand in Computer Vision an image or video is considered as an input to the system and the main focus is to understand the information on the image rather than changing its characteristics. The main difference is on the goal that is if the image needs to be transformed for later use then image processing is used and if the goal is to mimic human vision then computer vision is used.
 
