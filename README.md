@@ -14,27 +14,27 @@ Currently the continuous improvements in deep learning techniques are facilitati
 #### Object Detection
 In this field the machines are supposed to  detect objects using the pattern of geometry for example detecting faces, detecting bodies or animals. There are many algorithms that are used to detect objects by computers for example the binary matrix is used to see where an object starts and where it ends on the binary image. This is achieved by finding connected components which are then used to determine the boundaries of the object. The computers will then generate a pixelated boundary of any color to show the location of that object. Below is an image showing a cheetahs that has been identified and a red boundary has been drawn around it.
 
-![_figure 1_ Cheetah detected and boundaries in a red boundary](cheetah.jpg)
+![_figure 1_ Cheetah detected and boundaries in a red boundary](1detection.jpg)
 
 #### Object Recognition
 This field follows the same steps taken in object detection but the only difference is that the object will be already detected and now the computer has got to compare the results with what is already stored in the database. For example when a semi-autonomous vehicle is trained to detect a road sign that signals road users to stop, the next time is detects a road sign it will then check if the sign matches the stop sign already stored in its database. If the sign matches with stop sign stored in the database then it will recognize it. The image below shows objects that are detected and recognized by the computer:
 
-![images](dnr.jpg)
+![images](1recognition.jpg)
 
 #### Object Tracking
 This field is based on video analysis which could be looking for frames on a webcam and then use image processing algorithms that extract information of the image and the objects on it. In this field the state of the objects will be stored such as their location on the frames. The computer will then track the objects on the frames as they move around in the frames of the video that is coming from the webcam. This field is only possible in video processing, in image processing this is not possible because the objects will be stationery. Below is an image that shows a computer tracking people as they move on the video.
 
-![Image](t.png)
+![Image](1tracking.png)
 
 #### Object Classification
 In this field the computer will put objects found on an image into a broad category based on its characteristics or visual content. For instance when using an object classification algorithm a computer may be able to tell if an image contains a human figure or not. This field differs from object detection in the sense that in object detection the computer doesn't specifically look for a human figure. The image below shows an object that has been classified into the category of cat.
 
-![image](cat.jpg)
+![image](1classification.jpg)
 
 #### Object Segmentation
 In this field the computer divides an image into a number of regions using the characteristics of pixels to identify object boundaries in order to analyze it more efficiently. An example of object segmentation is seen on green screens where the foreground (object) is placed on another background. Below is an image which shows a tiger that has been placed on another background.
 
-![Image](seg.jpg)
+![Image](1segmentation.jpg)
 
 ### Applications of Computer Vision
 #### Automotive
