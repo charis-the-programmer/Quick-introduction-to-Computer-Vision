@@ -24,12 +24,12 @@ This field follows the same steps taken in object detection but the only differe
 #### Object Tracking
 This field is based on video analysis which could be looking for frames on a webcam and then use image processing algorithms that extract information of the image and the objects on it. In this field the state of the objects will be stored such as their location on the frames. The computer will then track the objects on the frames as they move around in the frames of the video that is coming from the webcam. This field is only possible in video processing, in image processing this is not possible because the objects will be stationery. Below is an image showing a satellite that is tracking sea waves.
 
-![Image](1tracking.jpg)
+![Image](https://codeswag.co.uk/1tracking-2/)
 
 #### Object Classification
 In this field the computer will put objects found on an image into a broad category based on its characteristics or visual content. For instance when using an object classification algorithm a computer may be able to tell if an image contains a human figure or not. This field differs from object detection in the sense that in object detection the computer doesn't specifically look for a human figure. The image below shows vehicles that have been put into certain classes by a computer.
 
-![image](2classification.jpg)
+![image](https://wp.me/aaW4iZ-108/2classification.jpg)
 
 #### Object Segmentation
 In this field the computer divides an image into a number of regions using the characteristics of pixels to identify object boundaries in order to analyze it more efficiently. An example of object segmentation is seen on green screens where the foreground (object) is placed on another background. Below is an image which shows a tiger that has been placed on another background.
